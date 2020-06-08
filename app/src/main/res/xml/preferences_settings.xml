@@ -50,15 +50,15 @@
             android:title="@string/settings_source_code"
             android:summary="@string/settings_source_code_url" />
 
-        <androidx.preference.Preference
-            android:key="settings_bug_report"
-            android:title="@string/settings_bug_report"
-            android:summary="@string/settings_bug_report_url" />
+<!--        <androidx.preference.Preference-->
+<!--            android:key="settings_bug_report"-->
+<!--            android:title="@string/settings_bug_report"-->
+<!--            android:summary="@string/settings_bug_report_url" />-->
 
-        <androidx.preference.Preference
-            android:key="settings_patreon"
-            android:title="@string/settings_patreon"
-            android:summary="@string/settings_patreon_url" />
+<!--        <androidx.preference.Preference-->
+<!--            android:key="settings_patreon"-->
+<!--            android:title="@string/settings_patreon"-->
+<!--            android:summary="@string/settings_patreon_url" />-->
 
     </androidx.preference.PreferenceCategory>
 
